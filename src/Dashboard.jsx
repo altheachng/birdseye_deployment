@@ -305,7 +305,7 @@ const Dashboard = () => {
                 <div className="bg-white rounded-3xl shadow-lg p-6 flex items-center gap-4 transition-all duration-300 hover:shadow-xl hover:scale-[1.02]">
                   <div className="bg-[#D4A5A5] rounded-3xl p-6 flex-shrink-0">
                     <img 
-                      src="/images/fan.png" 
+                      src="/images/FAN.png" 
                       alt="Fan" 
                       className="w-12 h-12"
                     />
